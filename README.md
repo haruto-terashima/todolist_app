@@ -101,10 +101,9 @@ webapp_td$
     ├── index.html
     └── update.html
 
-起動方法
+## 起動方法
 pip install -r requirements.txt
 python app.py
-
 
 
 
