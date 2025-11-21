@@ -1,0 +1,8 @@
+# コンパイルされたPythonファイル
+__pycache__/
+*.py[cod]
+
+# Flaskのインスタンスフォルダ（DBや秘密鍵など）
+instance/
+.webassets-cache
+
