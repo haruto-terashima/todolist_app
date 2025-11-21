@@ -105,5 +105,10 @@ webapp_td$
 pip install -r requirements.txt
 python app.py
 
+## ウェブアプリの画像
+<img width="1864" height="891" alt="スクリーンショット 2025-11-21 151805" src="https://github.com/user-attachments/assets/089b5191-a1b5-46e0-a614-fbe7ac5e1f35" />
+<img width="1882" height="763" alt="スクリーンショット 2025-11-21 151821" src="https://github.com/user-attachments/assets/f3752973-84a3-4068-8d67-31abc706fdb8" />
+<img width="1826" height="739" alt="スクリーンショット 2025-11-21 151835" src="https://github.com/user-attachments/assets/79178669-dcfe-4117-baab-4bd584664526" />
+<img width="1895" height="780" alt="スクリーンショット 2025-11-21 151858" src="https://github.com/user-attachments/assets/c4274fe0-9abb-4901-8ea6-da1eb132ad82" />
 
 
