@@ -11,6 +11,14 @@
 - タスクの削除（削除時に確認ダイアログ表示）
 - タスクの期限順ソート
 
+## 使用技術
+Python 3
+Flask
+Flask-SQLAlchemy
+SQLite
+HTML / CSS
+Bootstrap
+
 ## ファイル構成
 webapp_td$
 ├── Procfile
